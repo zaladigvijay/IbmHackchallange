@@ -1,0 +1,16 @@
+Flask 
+
+dash
+dash_core_components 
+dash_html_components 
+plotly
+
+pandas
+datetime
+dash_bootstrap_components
+
+nltk
+wordcloud 
+matplotlib
+
+cloudant 
